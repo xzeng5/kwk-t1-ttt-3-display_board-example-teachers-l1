@@ -7,9 +7,9 @@ end
 lines
 
 def display_board
-  puts "A Tic Tac Toe Board"
   2.times {lines}
   puts "   |   |   "
 end
 
+puts "A Tic Tac Toe Board"
 display_board
