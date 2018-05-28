@@ -10,6 +10,7 @@ def display_board
   puts "A Tic Tac Toe Board"
   2.times {lines}
   puts "   |   |   "
+  print display_board
 end
 
 display_board
